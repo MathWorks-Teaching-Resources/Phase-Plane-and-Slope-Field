@@ -38,8 +38,6 @@ https://user-images.githubusercontent.com/81383420/117166824-b944f000-ad94-11eb-
 As an alternative to the videos, you can use these PDF quick start guides to get up and running quickly.
 
 [<img src="https://user-images.githubusercontent.com/81383420/117190936-01bcd780-adae-11eb-8a53-29b05e7b175d.png" width="300">](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429294/PhasePlaneQuickStart.pdf) &nbsp; &nbsp;
-
-
 [<img src="https://user-images.githubusercontent.com/81383420/117191277-60825100-adae-11eb-88eb-99ebe73f23f6.png" width="300">](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429351/SlopeFieldQuickStart.pdf)
 
 ## MathWorks Products
