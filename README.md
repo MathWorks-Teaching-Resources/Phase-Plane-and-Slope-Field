@@ -36,6 +36,10 @@ https://user-images.githubusercontent.com/81383420/117166824-b944f000-ad94-11eb-
 ### Quick Start Guides
 As an alternative to the videos, you can use these PDF quick start guides to get up and running quickly.
 
+
+[PhasePlaneQuickStart.pdf](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429294/PhasePlaneQuickStart.pdf)
+
+
 [![Phase Plane Quick Start Guide](Images/PhasePlaneQuickStartIcon.svg)](Tutorials/PhasePlaneQuickStart.pdf) &nbsp; &nbsp;
 [![Slope Field Quick Start Guide](Images/SlopeFieldQuickStartIcon.svg)](Tutorials/SlopeFieldQuickStart.pdf)
   
