@@ -8,7 +8,7 @@ You can use the Phase Plane and Slope Field apps to qualitatively analyze ordina
 <tr><td><b>Slope Field app</b>: Analyze single variable ODEs. </td><td><b>Phase Plane app</b>: Analyze two-dimensional autonomous ODE systems.</td></tr>
 </table>
 
-These apps capture the functionality of the traditional PPlane and DField apps created by John C. Polking in MATLAB between 1995 and 2003. While similar in function to the original apps, the Slope Field and Phase Plane apps have been written entirely from scratch in MATLAB App Designer using modern MATLAB coding practices. This makes the new apps easier to maintain, edit, and use.
+These apps capture the functionality of the traditional PPlane and DField apps created by John C. Polking in MATLAB between 1995 and 2003 [[1]](#ref1). While similar in function to the original apps, the Slope Field and Phase Plane apps have been written entirely from scratch in MATLAB App Designer using modern MATLAB coding practices. This makes the new apps easier to maintain, edit, and use.
 
 ## Setup 
 ### MATLAB&reg;
@@ -18,10 +18,9 @@ These apps capture the functionality of the traditional PPlane and DField apps c
 4. Right-click one of the apps in MATLAB and select <b>run</b>.
 
 ### MATLAB Online&trade;
-1. Download the entire repository.
-2. Drag and drop the zip file into the Current Folder in <a href="https://matlab.mathworks.com/">MATLAB Online</a>.
-3. Extract the files from the zip folder.
-4. Right-click one of the apps and select <b>run</b>.
+1. Download and unzip the entire repository <b>or</b> download the three essential files: SharedFunctions.m, PhasePlane.mlapp, and SlopeField.mlapp.
+2. Drag and drop the two apps (PhasePlane.mlapp and SlopeField.mlapp) and the shared function file (SharedFunctions.m) into the Current Folder in <a href="https://matlab.mathworks.com/">MATLAB Online</a>.
+3. Right-click one of the apps and select <b>run</b>.
 
 Note: tutorials cannot be accessed from the apps in MATLAB Online. Instead, view the tutorials here in the readme or on your computer.
 
@@ -646,6 +645,10 @@ Each of these areas is described below.
     <td>Select <b>Export portrait only to PDF</b></td>
 </tr>
 </table>
+
+## References
+<a name="ref1">[1]</a> 
+John C. Polking. DField and PPlane [Computer software]. (1995-2003). Available online: https://math.rice.edu/~polking/odesoft/dfpp.html
 
 <br>
 Copyright 2021 The MathWorks, Inc.
