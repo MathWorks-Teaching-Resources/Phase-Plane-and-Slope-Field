@@ -19,11 +19,9 @@ These apps capture the functionality of the traditional PPlane and DField apps c
 4. Right-click one of the apps in MATLAB and select <b>run</b>.
 
 ### MATLAB Online&trade;
-1. Download and unzip the entire repository <b>or</b> download the three essential files: SharedFunctions.m, PhasePlane.mlapp, and SlopeField.mlapp.
+1. Download and unzip the entire repository (SharedFunctions.m is required for the apps to function). 
 2. Drag and drop the two apps (PhasePlane.mlapp and SlopeField.mlapp) and the shared function file (SharedFunctions.m) into the Current Folder in <a href="https://matlab.mathworks.com/">MATLAB Online</a>.
 3. Right-click one of the apps and select <b>run</b>.
-
-Note: tutorials cannot be accessed from the apps in MATLAB Online. Instead, view the tutorials here in the readme or on your computer.
 
 ## Getting Started 
 
