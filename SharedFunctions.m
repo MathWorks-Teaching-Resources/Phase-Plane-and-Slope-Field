@@ -586,16 +586,7 @@ classdef SharedFunctions
             SharedFunctions.displayMessage(message,0,messageArea);
         end
         
-        function winopenFile(filename,messageArea,startPanel)
-            try
-                winopen(filename)
-            catch ME
-                message = "Sorry, couldn't find the tutorial file: " + filename + ". Please visit the repository.";
-                SharedFunctions.displayMessage(message,3,messageArea);
-                startPanel.Visible = false;
-            end
-        end
-        
+
         %---------------------------- Utility ----------------------------%
         function clear1DGraphicsCellArray(arrayHandle,messageArea)
            for k=1:numel(arrayHandle)
