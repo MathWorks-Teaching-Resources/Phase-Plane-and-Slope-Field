@@ -54,6 +54,7 @@ onlineteaching@mathworks.com
 
 ## Full Capabilities: Phase Plane App
 The details of the Phase Plane app are documented here for reference. The Phase Plane app has four main areas you can interact with:
+
 <img src="https://user-images.githubusercontent.com/81383420/117191716-e4d4d400-adae-11eb-819e-68d793fcfd15.png" width="600" >
 
 
