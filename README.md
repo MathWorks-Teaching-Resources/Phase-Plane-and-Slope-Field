@@ -4,7 +4,7 @@
 
 You can use the Phase Plane and Slope Field apps to qualitatively analyze ordinary differential equations (ODEs).
 <table>
-  <tr><td><img src="Images/phaseplane.svg"></img></td><td><img src="Images/slopefield.svg"></img></td></tr>
+  <tr><td><img src="https://user-images.githubusercontent.com/81383420/117192086-53199680-adaf-11eb-85b0-8fb3898fd99e.png"></img></td><td><img src="https://user-images.githubusercontent.com/81383420/117192143-60cf1c00-adaf-11eb-97f3-f7ae9320ef54.png"></img></td></tr>
   <tr><td><b>Phase Plane app</b>: Analyze two-dimensional autonomous ODE systems.</td><td><b>Slope Field app</b>: Analyze single variable ODEs. </td></tr>
 </table>
 
@@ -12,6 +12,7 @@ These apps capture the functionality of the traditional PPlane and DField apps c
 
 ## Setup 
 ### MATLAB&reg;
+
 1. Ensure that you have MATLAB R2021a or newer installed.
 2. Download the entire repository (SharedFunctions.m is required for the apps to function).
 3. Unzip the folder.
@@ -36,8 +37,10 @@ https://user-images.githubusercontent.com/81383420/117166824-b944f000-ad94-11eb-
 ### Quick Start Guides
 As an alternative to the videos, you can use these PDF quick start guides to get up and running quickly.
 
-[![Phase Plane Quick Start Guide](Images/PhasePlaneQuickStartIcon.svg)](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429294/PhasePlaneQuickStart.pdf) &nbsp; &nbsp;
-[![Slope Field Quick Start Guide](Images/SlopeFieldQuickStartIcon.svg)](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429351/SlopeFieldQuickStart.pdf)
+[<img src="https://user-images.githubusercontent.com/81383420/117190936-01bcd780-adae-11eb-8a53-29b05e7b175d.png" width="300">](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429294/PhasePlaneQuickStart.pdf) &nbsp; &nbsp;
+
+
+[<img src="https://user-images.githubusercontent.com/81383420/117191277-60825100-adae-11eb-88eb-99ebe73f23f6.png" width="300">](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429351/SlopeFieldQuickStart.pdf)
 
 ## MathWorks Products
 Requires MATLAB release R2021a or newer
@@ -53,8 +56,8 @@ onlineteaching@mathworks.com
 
 ## Full Capabilities: Phase Plane App
 The details of the Phase Plane app are documented here for reference. The Phase Plane app has four main areas you can interact with:
+<img src="https://user-images.githubusercontent.com/81383420/117191716-e4d4d400-adae-11eb-819e-68d793fcfd15.png" width="600" >
 
-![Phase Plane schematic](Images/phaseplaneschematic.svg)
 
 Each of these areas is described below.
 
@@ -385,7 +388,8 @@ Each of these areas is described below.
 ## Full Capabilities: Slope Field App
 The details of the Slope Field app are documented here for reference. The Slope Field app has four main areas you can interact with:
 
-![Slope Field schematic](Images/slopefieldschematic.svg)
+<img src="https://user-images.githubusercontent.com/81383420/117191860-0d5cce00-adaf-11eb-8636-524d4ad27782.png" width="600">
+
 
 Each of these areas is described below.
 
