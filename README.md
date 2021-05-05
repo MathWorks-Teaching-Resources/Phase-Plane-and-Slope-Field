@@ -36,13 +36,9 @@ https://user-images.githubusercontent.com/81383420/117166824-b944f000-ad94-11eb-
 ### Quick Start Guides
 As an alternative to the videos, you can use these PDF quick start guides to get up and running quickly.
 
+[![Phase Plane Quick Start Guide](Images/PhasePlaneQuickStartIcon.svg)](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429294/PhasePlaneQuickStart.pdf) &nbsp; &nbsp;
+[![Slope Field Quick Start Guide](Images/SlopeFieldQuickStartIcon.svg)](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429351/SlopeFieldQuickStart.pdf)
 
-[PhasePlaneQuickStart.pdf](https://github.com/MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field/files/6429294/PhasePlaneQuickStart.pdf)
-
-
-[![Phase Plane Quick Start Guide](Images/PhasePlaneQuickStartIcon.svg)](Tutorials/PhasePlaneQuickStart.pdf) &nbsp; &nbsp;
-[![Slope Field Quick Start Guide](Images/SlopeFieldQuickStartIcon.svg)](Tutorials/SlopeFieldQuickStart.pdf)
-  
 ## MathWorks Products
 Requires MATLAB release R2021a or newer
 
@@ -62,9 +58,10 @@ The details of the Phase Plane app are documented here for reference. The Phase 
 
 Each of these areas is described below.
 
+
 ### Differential Equation System Panel
 
-![Differential equation system panel](Images/differentialequationsystempanel.png)
+![differentialequationsystempanel](https://user-images.githubusercontent.com/81383420/117188975-a38ef500-adab-11eb-9e55-117c351d601e.png)
 
 <table>
 <tr>
@@ -93,7 +90,9 @@ Each of these areas is described below.
 </table>
 
 ### Phase Plane Panel
-![Phase plane panel](Images/phaseplanepanel.png)
+![phaseplanepanel](https://user-images.githubusercontent.com/81383420/117188869-8823ea00-adab-11eb-8d1e-42fef2ca1f73.png)
+
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -129,7 +128,8 @@ Each of these areas is described below.
 </table>
 
 ### Appearance Tab
-![Appearance tab](Images/appearancetabpp.png)
+![appearancetabpp](https://user-images.githubusercontent.com/81383420/117189258-fb2d6080-adab-11eb-92b0-58e8ad5b72c5.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -169,7 +169,8 @@ Each of these areas is described below.
 </table>
 
 ### Solution Tab
-![Solution tab](Images/solutiontabpp.png)
+![solutiontabpp](https://user-images.githubusercontent.com/81383420/117189293-07192280-adac-11eb-8232-1d95d3b91e87.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -189,7 +190,8 @@ Each of these areas is described below.
 </table>
 
 ### Solver Tab
-![Solver tab](Images/solvertabpp.png)
+![solvertabpp](https://user-images.githubusercontent.com/81383420/117189312-0ed8c700-adac-11eb-8221-b7aaf5d3e0cb.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -225,7 +227,8 @@ Each of these areas is described below.
 </table>
 
 ### Analysis Menu
-![Analysis menu](Images/analysismenupp.png)
+![analysismenupp](https://user-images.githubusercontent.com/81383420/117189337-17c99880-adac-11eb-8545-3f6f01a5ea2d.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -273,7 +276,8 @@ Each of these areas is described below.
 </table>
 
 ### Solve and Draw Menus
-![Solve menu](Images/solvemenupp.png)
+![solvemenupp](https://user-images.githubusercontent.com/81383420/117189390-2748e180-adac-11eb-91bf-d51f65471378.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -293,7 +297,8 @@ Each of these areas is described below.
 </table>
 
 ### Appearance Menu
-![Appearance menu](Images/appearancemenupp.png)
+![appearancemenupp](https://user-images.githubusercontent.com/81383420/117189426-2fa11c80-adac-11eb-91bb-1d07a9f0a1ab.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -321,7 +326,8 @@ Each of these areas is described below.
 </table>
 
 ### Library and Custom Library Menus
-![Library](Images/librarymenupp.png)
+![librarymenupp](https://user-images.githubusercontent.com/81383420/117189453-3760c100-adac-11eb-8f52-4fbbd0ee3564.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -344,7 +350,8 @@ Each of these areas is described below.
 </table>
 
 ### Export Graphics Menu
-![Export graphics](Images/exportgraphicsmenupp.png)
+![exportgraphicsmenupp](https://user-images.githubusercontent.com/81383420/117189476-4182bf80-adac-11eb-94eb-cc998e46d022.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -383,8 +390,8 @@ The details of the Slope Field app are documented here for reference. The Slope 
 Each of these areas is described below.
 
 ### Differential Equation Panel
+![differentialequationpanel](https://user-images.githubusercontent.com/81383420/117189545-552e2600-adac-11eb-9ed0-24d5d20731d2.png)
 
-![Differential equation panel](Images/differentialequationpanel.png)
 
 <table>
 <tr>
@@ -413,7 +420,8 @@ Each of these areas is described below.
 </table>
 
 ### Slope Field Panel
-![Slope field panel](Images/slopefieldpanel.png)
+![slopefieldpanel](https://user-images.githubusercontent.com/81383420/117189594-61b27e80-adac-11eb-9364-3c7f50701006.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -445,7 +453,8 @@ Each of these areas is described below.
 </table>
 
 ### Appearance Tab
-![Appearance tab](Images/appearancetab.png)
+![appearancemenu](https://user-images.githubusercontent.com/81383420/117189628-69722300-adac-11eb-9e00-4304143de79e.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -477,7 +486,8 @@ Each of these areas is described below.
 </table>
 
 ### Solution Tab
-![Solution tab](Images/solutiontab.png)
+![solutiontab](https://user-images.githubusercontent.com/81383420/117189697-7c84f300-adac-11eb-9e96-890b12634c37.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -493,7 +503,8 @@ Each of these areas is described below.
 </table>
 
 ### Solver Tab
-![Solver tab](Images/solvertab.png)
+![solvertab](https://user-images.githubusercontent.com/81383420/117189722-81e23d80-adac-11eb-958e-01640aebd1fd.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -529,7 +540,8 @@ Each of these areas is described below.
 </table>
 
 ### Analysis Menu
-![Solver tab](Images/analysisdropdown.png)
+![analysisdropdown](https://user-images.githubusercontent.com/81383420/117189767-8eff2c80-adac-11eb-8067-716e1adeb893.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -557,7 +569,8 @@ Each of these areas is described below.
 </table>
 
 ### Solve and Draw Menus
-![Solver tab](Images/solvemenu.png)
+![solvemenu](https://user-images.githubusercontent.com/81383420/117189824-a0483900-adac-11eb-9267-2500f933bfb1.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -577,7 +590,8 @@ Each of these areas is described below.
 </table>
 
 ### Appearance Menu
-![Solver tab](Images/appearancemenu.png)
+![appearancemenu](https://user-images.githubusercontent.com/81383420/117189868-accc9180-adac-11eb-89d9-2c46895a8461.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -605,7 +619,8 @@ Each of these areas is described below.
 </table>
 
 ### Library and Custom Library Menus
-![Library](Images/librarymenu.png)
+![librarymenu](https://user-images.githubusercontent.com/81383420/117189899-b524cc80-adac-11eb-9c57-111b6ec4b6b0.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
@@ -628,7 +643,8 @@ Each of these areas is described below.
 </table>
 
 ### Export Graphics Menu
-![Export graphics](Images/exportgraphicsmenu.png)
+![exportgraphicsmenu](https://user-images.githubusercontent.com/81383420/117189911-bc4bda80-adac-11eb-92f7-9a689de6d810.png)
+
 <table>
 <tr>
     <th>Functionality</th><th>Action</th>
