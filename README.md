@@ -4,8 +4,8 @@
 
 You can use the Phase Plane and Slope Field apps to qualitatively analyze ordinary differential equations (ODEs).
 <table>
-<tr><td>![Phase Plane app](Images/slopefield.svg)</td><td>![Phase Plane app](Images/phaseplane.svg)</td></tr>
-<tr><td><b>Slope Field app</b>: Analyze single variable ODEs. </td><td><b>Phase Plane app</b>: Analyze two-dimensional autonomous ODE systems.</td></tr>
+  <tr><td><img src="Images/phaseplane.svg"></img></td><td><img src="Images/slopefield.svg"></img></td></tr>
+  <tr><td><b>Phase Plane app</b>: Analyze two-dimensional autonomous ODE systems.</td><td><b>Slope Field app</b>: Analyze single variable ODEs. </td></tr>
 </table>
 
 These apps capture the functionality of the traditional PPlane and DField apps created by John C. Polking in MATLAB between 1995 and 2003 [[1]](#ref1). While similar in function to the original apps, the Slope Field and Phase Plane apps have been written entirely from scratch in MATLAB App Designer using modern MATLAB coding practices. This makes the new apps easier to maintain, edit, and use.
