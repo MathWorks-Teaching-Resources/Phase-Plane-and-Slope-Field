@@ -28,15 +28,10 @@ Note: tutorials cannot be accessed from the apps in MATLAB Online. Instead, view
 
 ### Tutorial Videos
 Start by learning how to use the apps in these 3-minute tutorial videos. 
-If you're having trouble viewing the videos here in the readme, you can also find them in the [Tutorials](/Tutorials) folder of the repository.
 
-<table>
-<tr><td>![Slope Field app tutorial](Tutorials/SlopeFieldIntro.mp4)</td><td>![Phase Plane app tutorial](Tutorials/PhasePlaneIntro.mp4)</td></tr>
-</table>
+https://user-images.githubusercontent.com/81383420/117165651-abdb3600-ad93-11eb-8291-18f5a3e661d0.mp4
 
-
-
-
+https://user-images.githubusercontent.com/81383420/117166824-b944f000-ad94-11eb-8181-59bd26d57410.mp4
 
 ### Quick Start Guides
 As an alternative to the videos, you can use these PDF quick start guides to get up and running quickly.
