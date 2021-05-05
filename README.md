@@ -370,6 +370,7 @@ Each of these areas is described below.
     <td>Select <b>Export portrait only to PDF</b></td>
 </tr>
 </table>
+
 ## Full Capabilities: Slope Field App
 The details of the Slope Field app are documented here for reference. The Slope Field app has four main areas you can interact with:
 
