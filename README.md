@@ -44,7 +44,11 @@ Requires MATLAB release R2021a or newer
 ## License
 The license for the Phase Plane and Slope Field apps is available in the [LICENSE.md](LICENSE.md) file in this GitHub repository.
 
-## Support
+## Educator Resources ##
+* [Featured Courseware](https://www.mathworks.com/academia/courseware/course-materials.html)
+* [Teach with MATLAB and Simulink](https://www.mathworks.com/academia/educators.html)
+* [MATLAB Grader](https://www.mathworks.com/products/matlab-grader.html)
+
 Find an issue or need help? Email the MathWorks Online teaching team: 
 onlineteaching@mathworks.com
 
