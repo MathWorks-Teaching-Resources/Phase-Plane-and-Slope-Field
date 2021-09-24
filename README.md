@@ -32,9 +32,10 @@ These apps capture the functionality of the traditional PPlane and DField apps c
 ### Tutorial Videos
 Learn the basics of the Phase Plane and Slope Field apps in these 3-minute tutorial videos. 
 
-https://user-images.githubusercontent.com/81383420/117165651-abdb3600-ad93-11eb-8291-18f5a3e661d0.mp4
+https://user-images.githubusercontent.com/81383420/134724074-25ac1212-2aa7-429b-b93d-550667641cf7.mp4
 
-https://user-images.githubusercontent.com/81383420/117166824-b944f000-ad94-11eb-8181-59bd26d57410.mp4
+https://user-images.githubusercontent.com/81383420/134727298-5e0c2e62-4e4b-452d-9371-c61237e395e0.mp4
+
 
 ### Quick Start Guides
 As an alternative to the videos, you can use these PDF quick start guides to get up and running quickly.
