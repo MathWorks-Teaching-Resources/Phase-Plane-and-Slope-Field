@@ -10,18 +10,22 @@ You can use the Phase Plane and Slope Field apps to qualitatively analyze ordina
 
 These apps capture the functionality of the traditional PPlane and DField apps created by John C. Polking in MATLAB between 1995 and 2003 [[1]](#ref1). While similar in function to the original apps, the Slope Field and Phase Plane apps have been written entirely from scratch in MATLAB App Designer using modern MATLAB coding practices. This makes the new apps easier to maintain, edit, and use.
 
+#### Acknowledgements ####
+* A special thank you to Roy Goodman at NJIT for his support of this project and many insightful suggestions.
+
 ## Setup 
 ### MATLAB&reg;
 
 1. Ensure that you have MATLAB R2021a or newer installed.
-2. Download the entire repository (SharedFunctions.m is required for the apps to function).
-3. Unzip the folder.
-4. Right-click one of the apps in MATLAB and select <b>run</b>.
+2. Download and unzip the entire repository.
+3. Double-click each app installer (SlopeField.mlappinstall and PhasePlane.mlappinstall) and follow the installation instructions.
+4. Access the apps from the **APPS** tab in the MATLAB toolstrip. Use the dropdown to expand the menu.
 
 ### MATLAB Online&trade;
-1. Download and unzip the entire repository (SharedFunctions.m is required for the apps to function). 
-2. Drag and drop the two apps (PhasePlane.mlapp and SlopeField.mlapp) and the shared function file (SharedFunctions.m) into the Current Folder in <a href="https://matlab.mathworks.com/">MATLAB Online</a>.
-3. Right-click one of the apps and select <b>run</b>.
+1. Download and unzip the entire repository. 
+2. Drag and drop the two app installers (SlopeField.mlappinstall and PhasePlane.mlappinstall) into the Current Folder in <a href="https://matlab.mathworks.com/">MATLAB Online</a>.
+3. Double-click each app installer (SlopeField.mlappinstall and PhasePlane.mlappinstall) and follow the installation instructions.
+4. Access the apps from the **APPS** tab in the MATLAB toolstrip. Use the dropdown to expand the menu.
 
 ## Getting Started 
 
