@@ -11,7 +11,7 @@ You can use the Phase Plane and Slope Field apps to qualitatively analyze ordina
 These apps capture the functionality of the traditional PPlane and DField apps created by John C. Polking in MATLAB between 1995 and 2003 [[1]](#ref1). While similar in function to the original apps, the Slope Field and Phase Plane apps have been written entirely from scratch in MATLAB App Designer using modern MATLAB coding practices. This makes the new apps easier to maintain, edit, and use.
 
 #### Acknowledgements ####
-* A special thank you to Roy Goodman at NJIT for his support of this project and many insightful suggestions.
+* Thank you to Roy Goodman at NJIT for his support of this project and many insightful suggestions.
 
 ## Setup 
 ### MATLAB&reg;
