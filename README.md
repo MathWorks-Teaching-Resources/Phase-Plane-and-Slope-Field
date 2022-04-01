@@ -10,7 +10,18 @@ You can use the Phase Plane and Slope Field apps to qualitatively analyze ordina
 
 These apps capture the functionality of the traditional PPlane and DField apps created by John C. Polking in MATLAB between 1995 and 2003 [[1]](#ref1). While similar in function to the original apps, the Slope Field and Phase Plane apps have been written entirely from scratch in MATLAB App Designer using modern MATLAB coding practices. This makes the new apps easier to maintain, edit, and use.
 
-#### Acknowledgements ####
+### Latest update: 1.1.0
+* Updated field arrows with solid arrowheads. These fix the distortion that was visible when the axes were scaled differently.
+* Default field color is darker. Also, an option has been added to set a custom field color (in the Appearance menu).
+* The solver now allows complex solutions but only plots the real part.
+* Added options for the numerical estimation of separatrices.
+* Added options to export the field to a figure.
+
+### Related content
+* <a href="https://www.mathworks.com/matlabcentral/fileexchange/95513-qualitative-analysis-of-odes">Qualitative Analysis of ODEs</a>: 
+an accompanying set of live scripts that teach the basics of qualitative ODE analysis using these apps.
+
+### Acknowledgements
 * Thank you to Roy Goodman at NJIT for his support of this project and many insightful suggestions.
 
 ## Setup 
