@@ -1,6 +1,6 @@
 # Phase Plane and Slope Field
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/91705-phase-plane-and-slope-field-apps)  
+[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/91705-phase-plane-and-slope-field-apps)  or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field)
 
 You can use the Phase Plane and Slope Field apps to qualitatively analyze ordinary differential equations (ODEs).
 <table>
