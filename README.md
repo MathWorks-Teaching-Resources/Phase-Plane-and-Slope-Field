@@ -33,10 +33,9 @@ an accompanying set of live scripts that teach the basics of qualitative ODE ana
 4. Access the apps from the **APPS** tab in the MATLAB toolstrip. Use the dropdown to expand the menu.
 
 ### MATLAB Online&trade;
-1. Download and unzip the entire repository. 
-2. Drag and drop the two app installers (SlopeField.mlappinstall and PhasePlane.mlappinstall) into the Current Folder in <a href="https://matlab.mathworks.com/">MATLAB Online</a>.
-3. Double-click each app installer (SlopeField.mlappinstall and PhasePlane.mlappinstall) and follow the installation instructions.
-4. Access the apps from the **APPS** tab in the MATLAB toolstrip. Use the dropdown to expand the menu.
+1. [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Phase-Plane-and-Slope-Field)
+2. Double-click each app installer (SlopeField.mlappinstall and PhasePlane.mlappinstall) and follow the installation instructions.
+3. Access the apps from the **APPS** tab in the MATLAB toolstrip. Use the dropdown to expand the menu.
 
 ## Getting Started 
 
