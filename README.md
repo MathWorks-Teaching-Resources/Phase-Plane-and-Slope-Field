@@ -10,7 +10,14 @@ You can use the Phase Plane and Slope Field apps to qualitatively analyze ordina
 
 These apps capture the functionality of the traditional PPlane and DField apps created by John C. Polking in MATLAB between 1995 and 2003 [[1]](#ref1). While similar in function to the original apps, the Slope Field and Phase Plane apps have been written entirely from scratch in MATLAB App Designer using modern MATLAB coding practices. This makes the new apps easier to maintain, edit, and use.
 
-### Latest update: 1.1.0
+### Latest update: 1.2.0
+* Updated to offer both dark mode and light mode for plotting region.
+* Removed unused function in Phase Plane app.
+* Improved user message when changing the solver field density slider.
+* Fixed case choices on slider labels to be consistent with each other.
+* Removed ode15i from offered solvers because it is an implicit solver that requires a different equation structure than these apps are designed to study.
+
+### Previous update: 1.1.0
 * Updated field arrows with solid arrowheads. These fix the distortion that was visible when the axes were scaled differently.
 * Default field color is darker. Also, an option has been added to set a custom field color (in the Appearance menu).
 * The solver now allows complex solutions but only plots the real part.
@@ -64,8 +71,10 @@ The license for the Phase Plane and Slope Field apps is available in the [LICENS
 * [Teach with MATLAB and Simulink](https://www.mathworks.com/academia/educators.html)
 * [MATLAB Grader](https://www.mathworks.com/products/matlab-grader.html)
 
-Find an issue or need help? Email the MathWorks Online teaching team: 
+Find an issue or need help? Email the MathWorks teaching resources team: 
 onlineteaching@mathworks.com
+
+If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](CONTRIBUTING.md) page on GitHub.
 
 <br>
 
@@ -339,10 +348,15 @@ Each of these areas is described below.
     <td>Select <b>Dark mode</b></td>
 </tr>
 <tr> 
+    <td>Toggle light mode</td>
+    <td>Select <b>Light mode</b></td>
+</tr>
+<tr> 
     <td>Toggle between showing the field arrows with magnitude and orientation and orientation only</td>
     <td>Select <b>Field orientation only</b></td>
 </tr>
 </table>
+<b>Note:</b> At most, one of the Dark and Light modes can be selected simultaneously. Selecting one will clear the other. The original theme colors are used if both Dark mode and Light mode are unselected.
 
 ### Library and Custom Library Menus
 ![librarymenupp](https://user-images.githubusercontent.com/81383420/117189453-3760c100-adac-11eb-8f52-4fbbd0ee3564.png)
@@ -633,10 +647,15 @@ Each of these areas is described below.
     <td>Select <b>Dark mode</b></td>
 </tr>
 <tr> 
+    <td>Toggle light mode</td>
+    <td>Select <b>Light mode</b></td>
+</tr>
+<tr> 
     <td>Toggle between showing the field arrows with magnitude and orientation and orientation only</td>
     <td>Select <b>Field orientation only</b></td>
 </tr>
 </table>
+<b>Note:</b> At most, one of the Dark and Light modes can be selected simultaneously. Selecting one will clear the other. The original theme colors are used if both Dark mode and Light mode are unselected.
 
 ### Library and Custom Library Menus
 ![librarymenu](https://user-images.githubusercontent.com/81383420/117189899-b524cc80-adac-11eb-9c57-111b6ec4b6b0.png)
@@ -685,4 +704,4 @@ Each of these areas is described below.
 John C. Polking. DField and PPlane [Computer software]. (1995-2003). Available online: https://math.rice.edu/~polking/odesoft/dfpp.html
 
 <br>
-Copyright 2021 The MathWorks, Inc.
+&copy; Copyright 2023 The MathWorks, Inc.
